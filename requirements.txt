@@ -6,3 +6,5 @@ plotly
 openpyxl
 streamlit-extras
 plotnine
+seaborn
+
